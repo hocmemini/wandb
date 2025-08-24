@@ -1,0 +1,5 @@
+ultralytics>=8.2.0
+wandb>=0.17
+opencv-python>=4.8
+matplotlib>=3.8
+numpy>=1.26
